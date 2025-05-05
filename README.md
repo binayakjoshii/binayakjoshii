@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 BCA Student passionate about **Web Development** and **UI/UX Design**.
 - 🛠️ Currently sharpening my skills in **Full Stack Development** (MERN stack).
-- 🏋️‍♂️ Calisthenics lover & coding enthusiast.
+- 🏋️‍♂️ Calisthenics  & coding enthusiast.
 - 🎯 I believe in "Practice until it becomes second nature."
 
 ---
