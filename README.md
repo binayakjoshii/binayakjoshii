@@ -21,7 +21,7 @@ A full-stack developer and founder who loves turning everyday challenges into fu
 ---
 
 * GitHub: [@binayakjoshii](https://github.com/binayakjoshii)
-* LinkedIn: [@binayak-joshi](https://linkedin.com/in/binayak-joshi)
+* LinkedIn: [@binayak-joshi](https://www.linkedin.com/in/binayak-joshi-52a0982bb/)
 * Email: [binayakjoshi926@gmail.com](mailto:binayakjoshi926@gmail.com)
 
 Designing solutions. Building platforms. Shipping products.
